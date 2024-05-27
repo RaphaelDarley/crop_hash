@@ -1,0 +1,8 @@
+[package]
+name = "crop_hash"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+mod_exp = "1.0.1"
+rayon = "1.10.0"
